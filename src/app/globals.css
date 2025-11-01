@@ -72,7 +72,6 @@ body,
   width: 100%;
   @apply text-sm;
   @apply bg-white;
-  @apply dark:bg-black;
 }
 
 @layer base {
